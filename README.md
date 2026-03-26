@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there! 🫧🍊
 
-<!--
-**Neo-Citrus/Neo-Citrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Neo, a Spanish front end developer based in Sweden.
 
-Here are some ideas to get you started:
+I design and build websites with an emphasis on playfulness and accessibility. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I get an idea, I'll make sure to build it and polish it to perfection.
+
+My main stack is HTML, Javascript, Tailwind/CSS, Markdown, 11ty and Node.js. My favorite tools are Procreate for the ipad and my HTML, CSS and Javascript books.
+
+I'm currently learning on my own by building [my own personal website](https://neo-citrus-web.neocities.org) and I'm starting a new web app project really soon!
+
+You can reach me here or through [my email!](neocitrusweb@protonmail.com)
+
+🍊 Fun facts about me: 
+
+- I love console restoration and have fixed/modded some of my own comsoles.
+- My favorite Pókemon are Chandelure, Maushold and Leafeon.
+- **Hobbies:** drawing, playing games, collecting Pókemon cards.
