@@ -10,7 +10,7 @@ My main stack is HTML, Javascript, Tailwind/CSS, Markdown, 11ty and Node.js. My 
 
 I'm currently learning on my own by building [my own personal website](https://neo-citrus-web.neocities.org) and I'm starting a new web app project really soon!
 
-You can reach me here or through [my email!](neocitrusweb@protonmail.com)
+You can reach me here or through my email!
 
 🍊 Fun facts about me: 
 
