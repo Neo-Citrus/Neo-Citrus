@@ -1,6 +1,6 @@
-## Hi there! 🫧🍊
+![Header](./github-header-banner.png)
 
-I'm Neo, a Spanish front end developer based in Sweden.
+I'm a Spanish front end developer based in Sweden.
 
 I design and build websites with an emphasis on playfulness and accessibility. 
 
