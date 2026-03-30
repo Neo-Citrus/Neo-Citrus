@@ -19,7 +19,7 @@ You can reach me here or through my email!
 🍊 My main Stack:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,vscodium" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,markdown,vscodium" />
     <img src="./liquidjs.png" width=45 height=45> 
     <img src="./Procreate_icon.png" width=45 height=45>
 </p>
