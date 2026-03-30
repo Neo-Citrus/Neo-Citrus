@@ -16,4 +16,4 @@ You can reach me here or through my email!
 - My favorite Pókemon are Chandelure, Maushold and Leafeon.
 - **Hobbies:** drawing, playing games, collecting Pókemon cards.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscodium)](https://skillicons.dev) [![Liquidjs](./liquidjs.png)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscodium)](https://skillicons.dev) <img src="./liquidjs.png" width=45 height=45>
