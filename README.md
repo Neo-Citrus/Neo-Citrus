@@ -6,7 +6,7 @@ I design and build websites with an emphasis on playfulness and accessibility.
 
 If I get an idea, I'll make sure to build it and polish it to perfection.
 
-My main stack is HTML, Javascript, Tailwind/CSS, Markdown, LiquidJS, 11ty and Node.js. My favorite tools are Procreate for the iPad, VSCodium, and my HTML, CSS and Javascript books.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscodium)](https://skillicons.dev) 
 
 I'm currently learning on my own by building [my own personal website](https://neo-citrus-web.neocities.org) and I'm starting a new web app project really soon!
 
