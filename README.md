@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header]
 
 I'm a Spanish Game Dev student based in Sweden.
 
