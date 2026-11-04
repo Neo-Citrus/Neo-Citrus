@@ -1,4 +1,4 @@
-<a>![Header](https://github.com/Neo-Citrus/Neo-Citrus/blob/main/github%20banner.png) style="border-radius:50%"</a>
+![Header](https://github.com/Neo-Citrus/Neo-Citrus/blob/main/github%20banner-modified.png)
 
 I'm a Spanish Game Dev student based in Sweden.
 
