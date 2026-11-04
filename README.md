@@ -1,4 +1,4 @@
-![Header]
+![Header]https://github.com/Neo-Citrus/Neo-Citrus/blob/main/github%20banner.png
 
 I'm a Spanish Game Dev student based in Sweden.
 
