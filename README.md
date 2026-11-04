@@ -4,9 +4,9 @@
 
 I'm a Spanish Game Dev student based in Sweden.
 
-I want to specialize in UI/UX Design and VFX.
+I want to specialize in **UI/UX** Design and **VFX**.
 
-You can reach me here or through my email!
+You can reach me here or through my email! -> [📩](mailto:neocitrusweb@protonmail.com)
 
 🍊 Fun facts about me: 
 
