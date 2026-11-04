@@ -1,6 +1,6 @@
 ![Header](https://github.com/Neo-Citrus/Neo-Citrus/blob/main/github%20banner-modified.png)
 
-Hi, I'm Neo!🍊🫧
+## Hi, I'm Neo!🍊🫧
 
 I'm a Spanish Game Dev student based in Sweden.
 
