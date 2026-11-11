@@ -11,5 +11,5 @@ You can reach me by messaging me here or through my email! -> [📩](mailto:neoc
 🍊 Fun facts about me: 
 
 - I love console restoration and have fixed/modded some of my own comsoles.
-- My favorite Pókemon are Chandelure, Maushold and Leafeon.
+- My favorite Pokémon are Chandelure, Maushold and Leafeon.
 
